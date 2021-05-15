@@ -25,6 +25,7 @@
         >Iniciar sesión</b-button
       >
     </b-form>
+    <p>Email: test@desafio.cl<br />Pass: 123456</p>
   </div>
 </template>
 
